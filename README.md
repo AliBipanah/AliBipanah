@@ -12,14 +12,11 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) " 
 <br>
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
-<h3 align="left">🔮 Django | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
+<h3 align="left">🔮 Python | 100%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
 <br>
-<h3 align="left">🔮 Kivy/Python | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
+<h3 align="left">🔮 Django | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
 <br>
-<h3 align="left">🔮 PyAutoGui | 75%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="375px" height="16px">
-<br>
-<h3 align="left">🔮 MySQL | 55%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="275px" height="16px">
-<br>
+
 
 <h2 align="right">🌞 الان مشغول این کارهام: </h2>
 <h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
