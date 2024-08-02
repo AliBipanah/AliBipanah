@@ -8,10 +8,7 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 
-<br>
-<h2 align="right">تماس با من ☎️:</h2>
-<a href="https://www.youtube.com/channel/UCvAMWdwUsplcY_5bcIbBDOQ"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/youtube.png?raw=true" alt="YouTube"></a> <a href="https://www.instagram.com/learnpy/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/instagram.png?raw=true" alt="Instagram"></a> <a href="https://twitter.com/imrrobat"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/twitter.png?raw=true" alt="Twitter"></a> <a href="http://icodeacademy.ir/"><img align="left" src="https://github.com/imrrobat/imrrobat/blob/main/images/favorite.png?raw=true" alt="Website"></a>
-<br>
+
 <h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
 <h3 align="left">🔮 Django | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="150px" height="16px">
 <br>
