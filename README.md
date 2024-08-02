@@ -11,17 +11,14 @@
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) " 
 <br>
-<h2 align="right">🌱 در حال حاضر دارم اینا رو یاد میگیرم:</h2>
+<h2 align="right">🌱 اموزه های من:</h2>
 <h3 align="left">🔮 Python | 100%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="400" height="16px">
 <br>
 <h3 align="left">🔮 Django | 40%</h3><img align="left" src="https://raw.githubusercontent.com/imrrobat/imrrobat/main/images/bar.png" width="200px" height="16px">
 <br>
 
 
-<h2 align="right">🌞 الان مشغول این کارهام: </h2>
-<h4 align="right">⭐️ تولید محتوا تلگرام / اینستاگرام</h4>
-<h4 align="right">⭐️ تدریس پایتون</h4>
-<h4 align="right">⭐️ ساخت ویدیو یوتوب</h4>
-<h4 align="right">⭐️ مشاوره برنامه‌نویسی</h4>
-
-
+<h2 align="right">🌞 فعالیت های من: </h2>
+<h4 align="right">⭐️ اموزش برنامه نویسی</h4>
+<h4 align="right">⭐️ تمرین آموزه هام</h4>
+<h4 align="right">⭐️ درس خواندن</h4>
